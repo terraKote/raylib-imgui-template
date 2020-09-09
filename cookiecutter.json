@@ -1,7 +1,0 @@
-{
-    "project_name": "test",
-    "cmake_version": "3.13",
-    "_copy_without_render": [
-        "src/external"
-    ]
-}

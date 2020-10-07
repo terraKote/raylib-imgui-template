@@ -1,7 +1,7 @@
 #include <imgui.h>
 #include <raylib.h>
 
-#include "imgui_impl_raylib.h"
+#include "imgui_impl_raylib.hpp"
 
 static double g_Time = 0.0;
 
